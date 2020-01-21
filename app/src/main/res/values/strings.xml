@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Students Project 1</string>
+    <string name="title">My first Android  project</string>
+    <string name="txtName">My name is:</string>
+    <string name="click">Clica en la imatge</string>
+    <string name="myName">Your name here ...</string>
+    <string name="meat">Carn</string>
+    <string name="fish">Peix</string>
+    <string name="clickCheckBox">Selecciona el que t\'agrade:</string>
+    <string name="clickRadioButton">Selecciona una opció:</string>
+    <string name="home">Home</string>
+    <string name="dona">Dona</string>
+    <string name="titolLlibres">Els meus llibres preferits</string>
+</resources>
